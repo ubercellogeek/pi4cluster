@@ -50,7 +50,7 @@ The other difference between this design and most of the others you'll find on t
 
 Lots of standoffs and M2/M3 screws. M2.5 screws are used to hold the individual Raspberry Pi boards to their base mounts. M2 screws fasten the USB C/SSD adapters to the caddies. Everything else uses M3 screws/bolts/nuts/standoffs. Everything needed should be in the parts list.
 
-The 3d printed parts were produced via a Monoproce Maker Select v2 running Marlin firmware (v3). I used Cura to slice the models. 
+The 3d printed parts were produced via a Monoprice Maker Select v2 running Marlin firmware (v3). I used Cura to slice the models. 
 
 * Amazon Basics PLA (black)
 * 0.2mm layer height
