@@ -16,7 +16,7 @@ The only problem: I couldn't find any really clean physical cluster designs that
 
 ## Files
 
-I've included the standard `.stl` model files as well as the `.f3d` Fusion360 files in case anyone would like to modify what I've created. I write code by day, so my 3d modeling skills are next to null. I make to promises as to the quality of the design. Files are located in the `design` folder.
+I've included the standard `.stl` model files as well as the `.f3d` Fusion360 files in case anyone would like to modify what I've created. I write code by day, so my 3d modeling skills are next to null. I make no promises as to the quality of the design. Files are located in the `design` folder.
 
 I've also included the Ansible scripts I used to get the whole cluster bootstrapped. It's a fork of [jduncan-rva's wonderful Ansible playbook](https://github.com/jduncan-rva/kube-pi-lab). All credit goes to him for that work.
 
