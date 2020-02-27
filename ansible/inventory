@@ -1,0 +1,9 @@
+[lab]
+rpi-node[1:3].int.dotnetdev.io ansible_user=root
+rpi-master.int.dotnetdev.io ansible_user=root
+
+[control]
+rpi-master.int.dotnetdev.io ansible_user=root
+
+[nodes]
+rpi-node[1:3].int.dotnetdev.io ansible_user=root
